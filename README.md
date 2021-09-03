@@ -1,1 +1,1 @@
-This repository is created for the alx low level programming projects
+this directory contains more projects on functions and nested loops
